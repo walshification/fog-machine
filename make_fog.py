@@ -13,9 +13,8 @@ def zalgoify(message: str) -> str:
                     [chr(char) for char in range(768,815)]
                 ) for _ in range(int(random.normalvariate(10, 5)))
             )
-        ]
+        ][v.isalpha()]
         for v in message
-        if v.isalpha()
     )
 
 messages = [
