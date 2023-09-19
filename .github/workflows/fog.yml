@@ -1,0 +1,34 @@
+name: "create fog"
+
+# Run every hour on the hour
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        with:
+          ref: main
+          # Do not persist to avoid using the GITHUB_TOKEN, instead of your personal token
+          persist-credentials: false
+          # Otherwise, you will fail to push refs to the repo
+          fetch-depth: 0
+      - name: "Set up Python 3.x"
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+      - name: "Create a commit fog blanket"
+        run: |
+          git config --local user.email "5120876+walshification@users.noreply.github.com"
+          git config --local user.name "Christopher Walsh"
+          python make_commits.py
+      - name: "Push changes"
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: "true"
+          branch: "main"
