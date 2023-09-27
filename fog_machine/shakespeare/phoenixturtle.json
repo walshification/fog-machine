@@ -1,0 +1,447 @@
+{
+  "id": "phoenixturtle",
+  "title": "Phoenix and the Turtle",
+  "longTitle": "The Phoenix and the Turtle",
+  "date": "1601",
+  "genre": "Poem",
+  "wordCount": "353",
+  "paragraphCount": "19",
+  "chapters": [
+    {
+      "sectionNumber": 1,
+      "chapterNumber": 1,
+      "description": "The Phoenix and the Turtle",
+      "paragraphs": [
+        {
+          "number": 1,
+          "lines": [
+            "Let the bird of loudest lay,",
+            "On the sole Arabian tree,",
+            "Herald sad and trumpet be,",
+            "To whose sound chaste wings obey."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 5,
+          "lines": [
+            "But thou shrieking harbinger,",
+            "Foul precurrer of the fiend,",
+            "Augur of the fever's end,",
+            "To this troop come thou not near!"
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 9,
+          "lines": [
+            "From this session interdict",
+            "Every fowl of tyrant wing,",
+            "Save the eagle, feather'd king:",
+            "Keep the obsequy so strict."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 13,
+          "lines": [
+            "Let the priest in surplice white,",
+            "That defunctive music can,",
+            "Be the death-divining swan,",
+            "Lest the requiem lack his right."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 17,
+          "lines": [
+            "And thou treble-dated crow,",
+            "That thy sable gender makest",
+            "With the breath thou givest and takest,",
+            "'Mongst our mourners shalt thou go."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 21,
+          "lines": [
+            "Here the anthem doth commence:",
+            "Love and constancy is dead;",
+            "Phoenix and the turtle fled",
+            "In a mutual flame from hence."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 25,
+          "lines": [
+            "So they loved, as love in twain",
+            "Had the essence but in one;",
+            "Two distincts, division none:",
+            "Number there in love was slain."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 29,
+          "lines": [
+            "Hearts remote, yet not asunder;",
+            "Distance, and no space was seen",
+            "'Twixt the turtle and his queen:",
+            "But in them it were a wonder."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 33,
+          "lines": [
+            "So between them love did shine,",
+            "That the turtle saw his right",
+            "Flaming in the phoenix' sight;",
+            "Either was the other's mine."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 37,
+          "lines": [
+            "Property was thus appalled,",
+            "That the self was not the same;",
+            "Single nature's double name",
+            "Neither two nor one was called."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 41,
+          "lines": [
+            "Reason, in itself confounded,",
+            "Saw division grow together,",
+            "To themselves yet either neither,",
+            "Simple were so well compounded,"
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 45,
+          "lines": [
+            "That it cried, How true a twain",
+            "Seemeth this concordant one!",
+            "Love hath reason, reason none,",
+            "If what parts can so remain."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 49,
+          "lines": [
+            "Whereupon it made this threne",
+            "To the phoenix and the dove,",
+            "Co-supremes and stars of love,",
+            "As chorus to their tragic scene."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 53,
+          "lines": [
+            "THRENOS."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 54,
+          "lines": [
+            "Beauty, truth, and rarity,",
+            "Grace in all simplicity,",
+            "Here enclosed in cinders lie."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 57,
+          "lines": [
+            "Death is now the phoenix' nest",
+            "And the turtle's loyal breast",
+            "To eternity doth rest,"
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 60,
+          "lines": [
+            "Leaving no posterity:",
+            "'Twas not their infirmity,",
+            "It was married chastity."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 63,
+          "lines": [
+            "Truth may seem, but cannot be:",
+            "Beauty brag, but 'tis not she;",
+            "Truth and beauty buried be."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        },
+        {
+          "number": 66,
+          "lines": [
+            "To this urn let those repair",
+            "That are either true or fair",
+            "For these dead birds sigh a prayer."
+          ],
+          "type": "DIALOGUE",
+          "speaker": {
+            "name": "Shakespeare",
+            "abbreviatedName": "Shakespeare",
+            "appearsInWorks": [
+              "phoenixturtle",
+              "loverscomplaint",
+              "sonnets",
+              "rapelucrece",
+              "passionatepilgrim",
+              "venusadonis"
+            ],
+            "description": "the voice of Shakespeare's poetry"
+          }
+        }
+      ]
+    }
+  ]
+}
