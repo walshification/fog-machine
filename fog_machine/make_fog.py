@@ -20,7 +20,7 @@ def main(dir_path: str = "./fog_machine/shakespeare/") -> None:
 
 def read_random_shakespeare(
         dir_path: str, plays: Sequence[str] = PLAYS
-    ) -> Sequence[str]:
+    ) -> dict:
     """Return lines from a randomly-chosen Shakespeare play."""
     with open(f"{dir_path}{random.SystemRandom().choice(plays)}") as play:
         lines = json.loads(play.read())
@@ -28,7 +28,7 @@ def read_random_shakespeare(
     return lines
 
 
-def create_shakespearean_zalgo_text(lines: Sequence[str]) -> str:
+def create_shakespearean_zalgo_text(lines: dict) -> Sequence[str]:
     """Return a list of Zalgo text lines from Shakespeare."""
     messages = []
     for _ in range(random.SystemRandom().choice([i for i in range(1, 10)])):
@@ -44,8 +44,6 @@ def create_shakespearean_zalgo_text(lines: Sequence[str]) -> str:
     return messages
 
 
-# zalgoification algorithm found here:
-# https://codegolf.stackexchange.com/questions/57601/z%CC%A1%CC%ACa%CC%AF%CC%A7%CC%94l%CC%86%CC%93g%CC%98%CC%9F%CC%9Bo%CC%A1-generator
 def zalgoify(message: str) -> str:
     """Return a Zalgo text version of a given message."""
     return "".join(
